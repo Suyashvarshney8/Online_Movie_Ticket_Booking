@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:\\CODING"
+		},
+		{
+			"path": "D:\\WEB DEVELOPMENT"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "WEB DEVELOPMENT"
+	}
+}
